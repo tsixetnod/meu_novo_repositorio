@@ -1,0 +1,37 @@
+.jpg{
+    max-width: 325px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+.descricao{
+    text-align: center;
+      
+}
+.rede-social{
+    max-width: 100px;
+    height: 75px;
+    display: inline;
+    text-align: center;
+    padding: 10px;
+}
+.objetivos{
+    text-align: center;
+}
+.gifs{
+    text-align: center;
+    margin: 5px;
+}
+.foto{
+    text-align: center;
+    padding: 5px;
+    color: coral;
+}
+
